@@ -6,5 +6,5 @@ While repository ownership is absolutely about permissions and control, it's als
 
 # Documentation
 
-- [Differences between user and organization accounts](https://help.github.com/en/articles/differences-between-user-and-organization-accounts)
+- [Differences between user(s) and organization accounts](https://help.github.com/en/articles/differences-between-user-and-organization-accounts)
 - [Repository permission levels for an organization](https://help.github.com/en/articles/repository-permission-levels-for-an-organization)
